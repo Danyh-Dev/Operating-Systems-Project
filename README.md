@@ -9,4 +9,5 @@ Both projects are implemented in **Java** and demonstrate key OS concepts.
 2. Memory Fragmentation Simulator
    Simulates memory management using Fixed Partition with First-Fit, Best-Fit, and Worst-Fit allocation strategies.
 
-Each project folder contains the source code and a detailed README describing the project and my contributions.
+Each project folder contains the source code and a detailed README describing the project and my contributions.  
+These projects were completed as **part of a team**, and my role/contributions are clearly outlined in each project's README.
