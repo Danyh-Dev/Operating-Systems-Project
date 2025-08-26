@@ -1,4 +1,12 @@
 # Operating-Systems-Project
-Operating Systems Projects :
-1) Process Scheduling Simulator.
-2)  2)Memory Fragmentation Simulationز
+This repository contains two programming assignments completed as part of the Operating Systems course.  
+Both projects are implemented in **Java** and demonstrate key OS concepts.
+
+## Projects
+1. Process Scheduling Simulator
+   Simulates CPU scheduling using SRTF (Preemptive SJF) with performance metrics and Gantt chart visualization.
+
+2. Memory Fragmentation Simulator
+   Simulates memory management using Fixed Partition with First-Fit, Best-Fit, and Worst-Fit allocation strategies.
+
+Each project folder contains the source code and a detailed README describing the project and my contributions.
